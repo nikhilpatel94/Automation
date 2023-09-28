@@ -1,0 +1,9 @@
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.actitime.projectmodule"/>
+      <class name="com.zoho.COustoner"/>
+      <class name="com.actitime.Customermodule"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
